@@ -89,11 +89,6 @@
 
 ---
 
-## 🐍 Snake Eating My Contributions  
-<img src="https://raw.githubusercontent.com/AkshatShukla22/AkshatShukla22/output/snake.svg" alt="Snake animation" />
-
----
-
 ## 👀 Visitor Count  
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AkshatShukla22.AkshatShukla22" />
