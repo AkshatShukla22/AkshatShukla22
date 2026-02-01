@@ -103,19 +103,19 @@
 
 ## 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshatshukla22&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshatshukla22&layout=compact&theme=dracula&hide_border=false&langs_count=8" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AkshatShukla22&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=AkshatShukla22&layout=compact&theme=dracula&hide_border=false&langs_count=8" height="160" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=akshatshukla22&theme=dracula&hide_border=false" height="180" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=AkshatShukla22&theme=dracula&hide_border=false" height="180" alt="GitHub Streak"/>
 </div>
 
 ---
 
 ## 👀 Visitor Count  
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=akshatshukla22.akshatshukla22" alt="Visitor Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AkshatShukla22.AkshatShukla22" alt="Visitor Count" />
 </div>
 
 ---
