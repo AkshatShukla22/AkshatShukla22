@@ -1,68 +1,126 @@
-<!-- Header -->
+<!-- Waving Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Akshat%20Shukla&fontSize=50&color=gradient" />
 </p>
 
 <h2 align="center">👋 Hi, I'm Akshat Shukla</h2>
-<h3 align="center">MERN Stack & .NET Developer | Building Scalable Web Applications</h3>
+<h3 align="center">A passionate Full Stack Developer | Building Scalable Web Applications</h3>
 
 ---
 
 ## 🚀 About Me  
-- 🌱 Currently learning **N8N, Angular.js, ASP.NET Core**
-- 💬 Ask me about **React, Node.js, MongoDB, Express, TypeScript, C#, ASP.NET**
-- 👨‍💻 Projects → https://github.com/akshatshukla22?tab=repositories  
-- 📫 Email → **akshatshukla8600@gmail.com**
-- ⚡ Fun fact → **I debug faster with music 🎧**
+- 🌱 Currently learning **N8N, Angular.js, ASP.NET**  
+- 💬 Ask me about **React, Node.js, MongoDB, Express, TypeScript, JavaScript, C#, ASP.NET**  
+- 👨‍💻 All my projects:  
+  👉 https://github.com/akshatshukla22?tab=repositories  
+- 📫 Reach me at **akshatshukla8600@gmail.com**  
+- 📄 Resume:  
+  👉 https://drive.google.com/file/d/1h8ra2GjLzn4iY2_NIq9xtPYhE8IeQf_R/view  
+- ⚡ Fun fact: **I debug faster with music on 🎧**
 
 ---
 
-## 🛠️ Languages & Tools
+## 🌐 Connect With Me  
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
-  <img width="10"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40"/>
-  <img width="10"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40"/>
-  <img width="10"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40"/>
-  <img width="10"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40"/>
-  <img width="10"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" height="40"/>
-  <img width="10"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40"/>
+<a href="https://linkedin.com/in/akshat-shukla-" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/akshatshukla8600" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/akshatshukb6r" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
+</a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Languages & Tools  
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" />
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" alt="csharp" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+  <img width="12"/>
 
-![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatshukla22&show_icons=true&theme=dracula&hide_border=true&rank_icon=github)
+  <!-- Frontend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" alt="react" />
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="40" alt="bootstrap" />
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="html5" />
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" alt="css3" />
+  <img width="12"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="tailwind" />
+  <img width="12"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatshukla22&layout=compact&theme=dracula&hide_border=true)
+  <!-- State Management / Build -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="40" alt="redux" />
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" height="40" alt="webpack" />
+  <img width="12"/>
+
+  <!-- Backend & Frameworks -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs" />
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40" alt="express" />
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnet" />
+  <img width="12"/>
+
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb" />
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql" />
+  <img width="12"/>
+
+  <!-- DevOps & Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="git" />
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" alt="docker" />
+  <img width="12"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="40" alt="bash" />
+  <img width="12"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman" />
+  <img width="12"/>
+
+  <!-- Design Tools -->
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40" alt="figma" />
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="40" alt="photoshop" />
+  <img width="12"/>
+
+  <!-- OS -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="linux" />
+</p>
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshatshukla22&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshatshukla22&layout=compact&theme=dracula&hide_border=false&langs_count=8" height="160" alt="Top Languages" />
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=akshatshukla22&theme=dracula&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=akshatshukla22&theme=dracula&no-frame=true&row=1&column=6)
-
----
-
-## 👀 Visitor Count
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=akshatshukla22.akshatshukla22)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=akshatshukla22&theme=dracula&hide_border=false" height="180" alt="GitHub Streak"/>
+</div>
 
 ---
 
-<!-- Footer -->
+## 👀 Visitor Count  
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=akshatshukla22.akshatshukla22" alt="Visitor Count" />
+</div>
+
+---
+
+<!-- Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
 </p>
